@@ -1,0 +1,12 @@
+# Compiled binaries
+design_logical_lshift
+
+# Simulation waveform outputs
+*.vcd
+
+# GtkWave configuration files
+*.gtkw
+
+# Temporary or backup files from text editors
+*~
+*.swp
