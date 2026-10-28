@@ -8,13 +8,6 @@ A Verilog implementation of an 8-bit logical left shifter with a 1-bit shift mar
   - `out` (8-bit shifted result: `{in[6:0], 1'b0}`)
   - `cout` (1-bit dropped bit from `in[7]`)
 
-## Project Structure
-```text
-├── logical_lshift.v      # Design module containing shifter logic
-├── tb_logical_lshift.v   # Testbench module driving simulation vectors
-└── README.md             # Documentation
-```
-
 ## Simulation and Verification
 
 ### Prerequisites
